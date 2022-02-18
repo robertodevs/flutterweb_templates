@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutterweb_templates/apple_landing_page/pages/accesories_detail_page.dart';
 import 'package:flutterweb_templates/apple_landing_page/pages/landing_page.dart';
 
 void main() {
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const AppleLandingPage(),
+      home: const AccesoriesDetailPage(),
     );
   }
 }

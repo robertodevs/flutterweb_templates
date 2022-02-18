@@ -59,7 +59,9 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/apple_landing_page/
+    - assets/apple_accesories_page/
+    - assets/apple_landing_page/apple.png
+    - assets/apple_landing_page/cart.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
